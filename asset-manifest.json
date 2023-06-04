@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b02f0842.css",
+    "main.js": "/static/js/main.8b629654.js",
+    "static/js/787.fbf0fd7a.chunk.js": "/static/js/787.fbf0fd7a.chunk.js",
+    "static/media/trio.png": "/static/media/trio.6eb4da4206c8a7a0989a.png",
+    "static/js/main.8b629654.js.map": "/static/js/main.8b629654.js.map",
+    "static/media/melting-guitar.png": "/static/media/melting-guitar.e78b7f87284aabefae41.png",
+    "static/media/math.jpg": "/static/media/math.503695ab26291e9e81b6.jpg",
+    "static/media/signals-dark.jpg": "/static/media/signals-dark.7fcb905bbe7834e77ecc.jpg",
+    "static/media/instruments.jpg": "/static/media/instruments.a94ecb8c647d55efb3b9.jpg",
+    "static/media/math-dark-1.jpg": "/static/media/math-dark-1.bcce2dcf1ad5bbd039af.jpg",
+    "static/media/background-music-dark-blue.jpg": "/static/media/background-music-dark-blue.0a1880334b7482394f14.jpg",
+    "static/media/math-dark-2.jpg": "/static/media/math-dark-2.50caa0dbcf2a2ed14f92.jpg",
+    "index.html": "/index.html",
+    "static/media/signals.jpg": "/static/media/signals.5d9241602f8a9448f54a.jpg",
+    "static/media/universe.jpg": "/static/media/universe.695795586fb284496b34.jpg",
+    "static/media/avatar.jpg": "/static/media/avatar.cee84bd56e58f6c00bc5.jpg",
+    "static/media/music.jpg": "/static/media/music.c819248f75312d0bdceb.jpg",
+    "static/media/education.jpg": "/static/media/education.40801cb53099458ce631.jpg",
+    "static/media/beach-dark.jpg": "/static/media/beach-dark.5ad85a56c59562cc4156.jpg",
+    "static/media/coffee.jpg": "/static/media/coffee.ee64719882b54943eeba.jpg",
+    "static/media/networks.jpg": "/static/media/networks.a966e8f22eddb3b83a40.jpg",
+    "static/media/estudio.jpg": "/static/media/estudio.214ea1b164449730a43e.jpg",
+    "static/media/issogno.jpg": "/static/media/issogno.08f571b23acf79f95c19.jpg",
+    "static/media/portada.jpg": "/static/media/portada.25b2187f595952262138.jpg",
+    "static/media/cuero-y-cuerdas.jpg": "/static/media/cuero-y-cuerdas.bd08f7b79f4a44ca1859.jpg",
+    "static/media/github.svg": "/static/media/github.b28a8031836582cfd590ce509b0f3e98.svg",
+    "static/media/stackoverflow.svg": "/static/media/stackoverflow.9e5b305d11ae78cca34779aaa6109ffd.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.038e9d46b9880004e87539bcae1ef824.svg",
+    "static/js/main.8b629654.js.LICENSE.txt": "/static/js/main.8b629654.js.LICENSE.txt",
+    "static/media/facebook.svg": "/static/media/facebook.4ba0f48b291b567921670ccc467e077c.svg",
+    "static/css/main.b02f0842.css.map": "/static/css/main.b02f0842.css.map",
+    "787.fbf0fd7a.chunk.js.map": "/static/js/787.fbf0fd7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b02f0842.css",
+    "static/js/main.8b629654.js"
+  ]
+}
